@@ -1,0 +1,14 @@
+C:\Users\derba\source\repos\Consolelb1\Consolelb1\bin\Debug\net6.0\Consolelb1.exe
+C:\Users\derba\source\repos\Consolelb1\Consolelb1\bin\Debug\net6.0\Consolelb1.deps.json
+C:\Users\derba\source\repos\Consolelb1\Consolelb1\bin\Debug\net6.0\Consolelb1.runtimeconfig.json
+C:\Users\derba\source\repos\Consolelb1\Consolelb1\bin\Debug\net6.0\Consolelb1.dll
+C:\Users\derba\source\repos\Consolelb1\Consolelb1\bin\Debug\net6.0\Consolelb1.pdb
+C:\Users\derba\source\repos\Consolelb1\Consolelb1\obj\Debug\net6.0\Consolelb1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derba\source\repos\Consolelb1\Consolelb1\obj\Debug\net6.0\Consolelb1.AssemblyInfoInputs.cache
+C:\Users\derba\source\repos\Consolelb1\Consolelb1\obj\Debug\net6.0\Consolelb1.AssemblyInfo.cs
+C:\Users\derba\source\repos\Consolelb1\Consolelb1\obj\Debug\net6.0\Consolelb1.csproj.CoreCompileInputs.cache
+C:\Users\derba\source\repos\Consolelb1\Consolelb1\obj\Debug\net6.0\Consolelb1.dll
+C:\Users\derba\source\repos\Consolelb1\Consolelb1\obj\Debug\net6.0\refint\Consolelb1.dll
+C:\Users\derba\source\repos\Consolelb1\Consolelb1\obj\Debug\net6.0\Consolelb1.pdb
+C:\Users\derba\source\repos\Consolelb1\Consolelb1\obj\Debug\net6.0\Consolelb1.genruntimeconfig.cache
+C:\Users\derba\source\repos\Consolelb1\Consolelb1\obj\Debug\net6.0\ref\Consolelb1.dll
